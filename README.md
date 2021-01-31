@@ -1,6 +1,3 @@
 # CE
-hi hello
 
-## subheader
-
-watch me
+## this basically replace all imgs with kittens
